@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TextGuru-Text-Analyser/static/css/main.8f48fdd8.chunk.css",
+    "main.js": "/TextGuru-Text-Analyser/static/js/main.eff955c1.chunk.js",
+    "main.js.map": "/TextGuru-Text-Analyser/static/js/main.eff955c1.chunk.js.map",
+    "runtime-main.js": "/TextGuru-Text-Analyser/static/js/runtime-main.95c4ba35.js",
+    "runtime-main.js.map": "/TextGuru-Text-Analyser/static/js/runtime-main.95c4ba35.js.map",
+    "static/js/2.737419be.chunk.js": "/TextGuru-Text-Analyser/static/js/2.737419be.chunk.js",
+    "static/js/2.737419be.chunk.js.map": "/TextGuru-Text-Analyser/static/js/2.737419be.chunk.js.map",
+    "static/js/3.340c2ed8.chunk.js": "/TextGuru-Text-Analyser/static/js/3.340c2ed8.chunk.js",
+    "static/js/3.340c2ed8.chunk.js.map": "/TextGuru-Text-Analyser/static/js/3.340c2ed8.chunk.js.map",
+    "index.html": "/TextGuru-Text-Analyser/index.html",
+    "static/css/main.8f48fdd8.chunk.css.map": "/TextGuru-Text-Analyser/static/css/main.8f48fdd8.chunk.css.map",
+    "static/js/2.737419be.chunk.js.LICENSE.txt": "/TextGuru-Text-Analyser/static/js/2.737419be.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TextGuru-Text-Analyser/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95c4ba35.js",
+    "static/js/2.737419be.chunk.js",
+    "static/css/main.8f48fdd8.chunk.css",
+    "static/js/main.eff955c1.chunk.js"
+  ]
+}
